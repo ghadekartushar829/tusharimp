@@ -1,5 +1,11 @@
-[{"id":"1","cat_name":"entertainment","description":"sdfdfdf"},
-{"id":"2","cat_name":"film","description":"sd"},
-{"id":"3","cat_name":"dfdf","description":"dfd"},
-{"id":"4","cat_name":"politics","description":"sds"},
-{"id":"5","cat_name":"politics","description":"sds"}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
